@@ -27,7 +27,7 @@ My latest project is an **Attendance Management System** built with Django, it h
 Want to reach out, ask something, or just say hi? Feel free to open an **Issue** on this repository — I check them regularly and will get back to you.
 
 **How to reach me:**
-1. Go to the **Issues** tab at the top of this repository page.
+1. Go to the **Issues** tab at the top of  repository page.
 2. Click the green **New Issue** button.
 3. Give it a short **Title** (e.g. "Just saying hi" or "Question about...").
 4. Write your message in the **Description**.
